@@ -1,4 +1,3 @@
-In this challenge, you need to use the tool "curl" to interact with a specific webpage, which is only accessible through your Azure Lab VM.
+ This practical aims at reproducing the demonstration done during the lecture on Buffer Overflow about executing a piece of dead code, by using a buffer overflow.
 
-The first time you interact, the webpage will tell you which message to hash using MD5. You need to interact with the page again, passing the MD5 hash as the GET parameter "hash". 
-
+You are strongly advised to practice first the attacks given in the lecture material (include those given at https://gitlab.com/morisset/bof) before attempting this practical. 
