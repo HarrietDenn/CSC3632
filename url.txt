@@ -1,0 +1,7 @@
+Login: http://10.0.0.5/ctf_deploy2/hijack/rWOW7Eln/login.php
+
+username: user_JDVKCXJUFO
+password: 85rsTMjl
+
+Simulate root: http://10.0.0.5/ctf_deploy2/hijack/rWOW7Eln/simulate_root.php
+
